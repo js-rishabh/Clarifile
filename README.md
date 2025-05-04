@@ -1,5 +1,5 @@
-# Clarifile — AI-powered Document & Image Understanding Platform
-DocumentIQ is an intelligent web application built using the Gemini API that helps users extract meaningful insights from images and documents.
+# Docinsight — AI-powered Document & Image Understanding Platform
+Docinsight is an intelligent web application built using the Gemini API that helps users extract meaningful insights from images and documents.
 It automatically recognizes uploaded photos or PDF files, summarizes their content, and allows users to interact with an AI-powered chatbot to ask questions directly about the uploaded content.
 
 🔍 Key Features:
